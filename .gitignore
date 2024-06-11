@@ -1,0 +1,7 @@
+**/target/
+/.idea/
+!.idea/codeStyles/
+**/.DS_Store
+/logs/*
+/tests/target/
+*.iml
